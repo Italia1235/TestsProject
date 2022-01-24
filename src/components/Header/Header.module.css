@@ -1,0 +1,10 @@
+.header{
+height: 50px;
+background-color: #1565c0;
+}
+.link{
+    color:whitesmoke;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 30px;
+}

@@ -1,8 +1,11 @@
-import React, { ReactElement } from 'react';
+import React from 'react';
 
-const App = (): ReactElement => (
-  <div>
-    <div>2134</div>
+import { Main } from './Main';
+
+const App = () => (
+  <div className="App">
+    <Main />
   </div>
 );
+
 export default App;
